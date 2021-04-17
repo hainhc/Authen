@@ -1,0 +1,11 @@
+D:\Tai lieu\Web\Bai 4\Auth1\FuzzWebLab3_Blind1\bin\Release\FuzzWebLab3_Blind1.exe.config
+D:\Tai lieu\Web\Bai 4\Auth1\FuzzWebLab3_Blind1\bin\Release\FuzzWebLab3_Blind1.exe
+D:\Tai lieu\Web\Bai 4\Auth1\FuzzWebLab3_Blind1\bin\Release\FuzzWebLab3_Blind1.pdb
+D:\Tai lieu\Web\Bai 4\Auth1\FuzzWebLab3_Blind1\obj\Release\FuzzWebLab3_Blind1.exe
+D:\Tai lieu\Web\Bai 4\Auth1\FuzzWebLab3_Blind1\obj\Release\FuzzWebLab3_Blind1.pdb
+D:\Tai lieu\Web\Bai 4\Auth3\FuzzWebLab3_Blind1\bin\Release\FuzzWebLab3_Blind1.exe.config
+D:\Tai lieu\Web\Bai 4\Auth3\FuzzWebLab3_Blind1\obj\Release\FuzzWebLab3_Blind1.exe
+D:\Tai lieu\Web\Bai 4\Auth3\FuzzWebLab3_Blind1\obj\Release\FuzzWebLab3_Blind1.pdb
+D:\Tai lieu\Web\Bai 4\Auth3\FuzzWebLab3_Blind1\bin\Release\FuzzWebLab3_Blind1.exe
+D:\Tai lieu\Web\Bai 4\Auth3\FuzzWebLab3_Blind1\bin\Release\FuzzWebLab3_Blind1.pdb
+D:\Tai lieu\Web\Bai 4\Auth3\FuzzWebLab3_Blind1\obj\Release\Authen1.csprojResolveAssemblyReference.cache
